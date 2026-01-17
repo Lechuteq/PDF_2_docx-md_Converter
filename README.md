@@ -80,10 +80,14 @@ The project is designed to be easily configurable via the header of `main.py`:
 -   `TESSDATA_LANG`: Set to `pol` for Polish; change to `eng` for English.
 -   `POPPLER_PATH` / `TESSERACT_PATH`: System-specific binary locations.
 
+### 👨‍💻 Author
+
+Lesław Nowakowski  
+AI Enthusiast | Python Developer | BI & KYC Analyst | DPO | Automatization Specialist  
+🔗 www.linkedin.com/in/leslaw-nowakowski
+
+
 ## ⚖️ License
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
----
-
-**Developed with ❤️ by [Lechuteq](https://github.com/Lechuteq/)**
